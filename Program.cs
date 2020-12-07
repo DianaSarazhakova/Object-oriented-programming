@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-                int[,] Mass = new int[5, 5];
+                int[,] Mass = new int[5, 5];  //Массив для баллов
                 int[] P = new int[4];
                 int[] F = new int[4];
                 int i = 0;
