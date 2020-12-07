@@ -53,6 +53,7 @@ namespace ConsoleApp1
                     }
                     sum = 0;
                 }
+                //вывод результатов
                     Console.WriteLine("Победил участник № " + k);
                     for (i = 0; i < 4; i = i + 1)
                     {
