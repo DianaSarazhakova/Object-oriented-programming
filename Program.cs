@@ -53,7 +53,12 @@ namespace ConsoleApp1
                     }
                     sum = 0;
                 }
-                  
+                    Console.WriteLine("Победил участник № " + k);
+                    for (i = 0; i < 4; i = i + 1)
+                    {
+                        if (P[i] == min)
+                        { Console.WriteLine("Победил участник № " + F[i]); }
+                    }
              Console.ReadLine();
                 
             
