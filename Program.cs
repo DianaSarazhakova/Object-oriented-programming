@@ -15,7 +15,7 @@ namespace ConsoleApp1
                 int[] F = new int[4];
                 int i = 0;
                 int j = 0;
-                int m;
+                int m=0;
                 int b;
                 for (i = 0; i < 5; i = i + 1)
                 {
@@ -32,7 +32,6 @@ namespace ConsoleApp1
                 int sum = 0;
                 int k = 0;
                 int n = 0;
-                m = 0;
                 for (i = 0; i < 5; i = i + 1)
                 {
                     for (j = 0; j < 5; j = j + 1)
