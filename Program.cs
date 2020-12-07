@@ -59,8 +59,7 @@ namespace ConsoleApp1
                         if (P[i] == min)
                         { Console.WriteLine("Победил участник номер " + F[i]); }
                     }
-            Console.WriteLine("Нажмите на enter, чтобы завершить работу с программой");
-            Console.ReadLine();
+             Console.ReadLine();
                 
             
         }
